@@ -1,0 +1,5 @@
+{
+  "name": "AI Security Career CRM",
+  "description": "A personal CRM to manage and research contacts, companies, and organizations in the field of AI security. It automatically enriches entries with publicly available information using the Gemini API.",
+  "requestFramePermissions": []
+}
